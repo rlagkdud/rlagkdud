@@ -32,14 +32,14 @@
 
 
 # 👨‍💻 **SKILLS**
-### Main
+### Use as main
 <span>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%6DB33F?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=intellijidea&logoColor=white" />
 </span>
 
-### Experienced
+### Used At Least Once
 <span>
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-00599C?&style=for-the-badge&logo=python&logoColor=white" />
@@ -71,8 +71,6 @@
 <img src="https://img.shields.io/badge/mariadb-003545?&style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 </span>
-
-
 
 
 
@@ -134,7 +132,6 @@
 
 ---
 <br/>
-
 
 
 <!-- ![Hayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagkdud&theme=solarized-light&show_icons=true) -->
