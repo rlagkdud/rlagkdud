@@ -131,7 +131,6 @@
 - Jira, MatterMost, Notion
 
 ---
-<br/>
 
 
 <!-- ![Hayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagkdud&theme=solarized-light&show_icons=true) -->
